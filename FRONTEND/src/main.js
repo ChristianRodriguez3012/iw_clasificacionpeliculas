@@ -1,9 +1,10 @@
-import { createApp } from "vue";
+import { createApp } from 'vue';
 import axios from 'axios';
-import App from "./App.vue";
-import "../style.css";
+import App from './App.vue';
+import router from './router';
+import '../style.css';
 
-// Configuración de Axios con el token CSRF
+// Configuración de Axios con el token CSRF (opcional, si es necesario)
 const csrfToken = document.cookie.replace(
   /(?:(?:^|.*;\s*)csrftoken\s*=\s*([^;]*).*$)|^.*$/,
   '$1'
@@ -11,4 +12,8 @@ const csrfToken = document.cookie.replace(
 
 axios.defaults.headers.common['X-CSRFToken'] = csrfToken;
 
-createApp(App).mount("#app");
+const app = createApp(App);
+app.config.globalProperties.$axios = axios; // Para hacer axios disponible globalmente
+
+app.use(router);
+app.mount('#app');
