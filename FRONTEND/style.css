@@ -1,0 +1,21 @@
+/* Definir la fuente San Francisco */
+@font-face {
+    font-family: 'San Francisco';
+    src: url('/workspaces/iw_clasificacionpeliculas/FRONTEND/src/SFPro.woff2') format('woff2');
+    /* Asegúrate de especificar la ruta correcta y el formato de tu archivo de fuente */
+  }
+  
+  /* Aplicar la fuente San Francisco al cuerpo del documento y elementos generales */
+  html,
+  body,
+  input,
+  textarea,
+  button {
+    font-family: 'San Francisco', sans-serif;
+  }
+  
+  /* Aquí puedes seguir usando Tailwind CSS */
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+  

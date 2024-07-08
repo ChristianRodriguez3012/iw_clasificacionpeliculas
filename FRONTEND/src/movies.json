@@ -1,0 +1,74 @@
+[
+	{
+	  "id": 1,
+	  "name": "8 Mile",
+	  "description": "Un joven rapero lucha con cada aspecto de su vida mientras anhela el éxito. Amigos y enemigos complican su odisea en el mundo del rap.",
+	  "image": "https://m.media-amazon.com/images/M/MV5BZDE3NDZmMGUtZjhjOS00MmIyLTkyMzAtMzM4ZjNhZThiY2ViXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+	  "rating": 4.5,
+	  "genres": ["Drama", "Música"]
+	},
+	{
+	  "id": 2,
+	  "name": "Straight Outta Compton",
+	  "description": "La historia del ascenso meteórico y la caída de N.W.A, uno de los grupos de rap más influyentes de la historia.",
+	  "image": "https://m.media-amazon.com/images/M/MV5BMTA5MzkyMzIxNjJeQTJeQWpwZ15BbWU4MDU0MDk0OTUx._V1_FMjpg_UX1000_.jpg",
+	  "rating": 4.7,
+	  "genres": ["Biografía", "Drama", "Música"]
+	},
+	{
+	  "id": 3,
+	  "name": "Morir Rico o Morir Intentándolo",
+	  "description": "Un exdelincuente de poca monta decide cambiar su vida y convertirse en rapero, enfrentándose a desafíos personales y profesionales en el camino.",
+	  "image": "https://m.media-amazon.com/images/M/MV5BMTI4NTE0MTU2N15BMl5BanBnXkFtZTYwNzQ1OTc2._V1_FMjpg_UX1000_.jpg",
+	  "rating": 4.3,
+	  "genres": ["Biografía", "Drama"]
+	},
+	{
+	  "id": 4,
+	  "name": "Intensamente 2",
+	  "description": "Descripción de la película Intensamente 2.",
+	  "image": "https://m.media-amazon.com/images/M/MV5BYTc1MDQ3NjAtOWEzMi00YzE1LWI2OWUtNjQ0OWJkMzI3MDhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+	  "rating": 4.9,
+	  "genres": ["Comedia dramática", "Aventura", "Familiar"]
+	},
+	{
+	  "id": 5,
+	  "name": "Grandes Héroes",
+	  "description": "Hiro Hamada, un joven prodigio de la robótica, se une a un equipo de superhéroes improvisados para salvar a San Fransokyo de un villano robótico.",
+	  "image": "https://m.media-amazon.com/images/M/MV5BMDliOTIzNmUtOTllOC00NDU3LWFiNjYtMGM0NDc1YTMxNjYxXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_FMjpg_UX1000_.jpg",
+	  "rating": 4.5,
+	  "genres": ["Acción", "Aventura", "Comedia", "Animación"]
+	},
+	{
+	  "id": 6,
+	  "name": "Kung Fu Panda 4",
+	  "description": "Po y los Cinco Furiosos se enfrentan a una nueva amenaza que pone en peligro la paz de China. Po debe recurrir a su sabiduría interior y a sus habilidades de kung fu para salvar el día.",
+	  "image": "https://m.media-amazon.com/images/M/MV5BZDY0YzI0OTctYjVhYy00MTVhLWE0NTgtYTRmYTBmOTE3YTViXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+	  "rating": 3.7,
+	  "genres": ["Acción", "Aventura", "Comedia", "Animación"]
+	},
+	{
+	  "id": 7,
+	  "name": "El Exorcista",
+	  "description": "Una niña poseída por un demonio es exorcizada por dos sacerdotes.",
+	  "image": "https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+	  "rating": 4.9,
+	  "genres": ["Terror"]
+	},
+	{
+	  "id": 8,
+	  "name": "El Resplandor",
+	  "description": "Un escritor y su familia se mudan a un hotel aislado durante el invierno, donde se ven acosados por presencias paranormales.",
+	  "image": "https://m.media-amazon.com/images/M/MV5BM2M0NTNhNGMtMmVlMS00MDRjLWI5MzctYmVlNzdhMTQ0ZDE1XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+	  "rating": 4.5,
+	  "genres": ["Terror"]
+	},
+	{
+	  "id": 9,
+	  "name": "El Conjuro",
+	  "description": "Dos investigadores paranormales investigan una casa donde una familia afirma estar siendo aterrorizada por espíritus malignos.",
+	  "image": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_.jpg",
+	  "rating": 4,
+	  "genres": ["Terror"]
+	}
+]
